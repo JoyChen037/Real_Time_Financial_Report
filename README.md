@@ -9,10 +9,14 @@ Here is the overall architecture of the platform.
 ![Alt text](media/architecture.png)
 
 Page 1 (Overall Stock Market):
-![Alt text](media/screen1.mp4)
+<video width="320" height="240" controls>
+  <source src="media/screen1.mov" type="video/mp4">
+</video>
 
 Page 2 (Individual Security):
-![Alt text](media/screen2.mp4)
+<video width="320" height="240" controls>
+  <source src="media/screen2.mov" type="video/mp4">
+</video>
 
 ### Features
 **Real-Time Data Processing**: We utilize Kafka for real-time data processing, ensuring that the dashboard displays the most current market data and updates without delay.
