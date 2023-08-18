@@ -9,10 +9,10 @@ Here is the overall architecture of the platform.
 ![Alt text](media/architecture.png)
 
 Page 1 (Overall Stock Market):
-<img src="https://github.com/JoyChen037/real_time_financial_report/tree/main/media/screen1.gif" width="800" />
+<img src="https://github.com/JoyChen037/real_time_financial_report/blob/main/media/screen1.gif" width="800" />
 
 Page 2 (Individual Security):
-<img src="https://github.com/JoyChen037/real_time_financial_report/tree/main/media/screen2.gif" width="800" />
+<img src="https://github.com/JoyChen037/real_time_financial_report/blob/main/media/screen2.gif" width="800" />
 
 ### Features
 **Real-Time Data Processing**: We utilize Kafka for real-time data processing, ensuring that the dashboard displays the most current market data and updates without delay.
