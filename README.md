@@ -5,6 +5,8 @@ Welcome to the Real-Time Financial Report project! This repository contains a co
 ## Project Overview
 In today's fast-paced financial landscape, having access to up-to-the-minute information is crucial for making well-informed investment choices. This project addresses that need by leveraging Python, Kafka, Airflow, and Streamlit to create a holistic solution.
 
+Here is the overall architecture of the platform. 
+![Alt text](media/architecture.png)
 ### Features
 **Real-Time Data Processing**: We utilize Kafka for real-time data processing, ensuring that the dashboard displays the most current market data and updates without delay.
 
