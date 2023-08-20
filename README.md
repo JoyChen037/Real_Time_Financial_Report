@@ -14,6 +14,7 @@ https://github.com/JoyChen037/real_time_financial_report/assets/105028672/63d9ba
 Page 2 (Individual Security):
 https://github.com/JoyChen037/real_time_financial_report/assets/105028672/2f9c3768-15ad-4dbd-97a6-25b1880a9df5
 
+
 ### Features
 **Real-Time Data Processing**: We utilize Kafka for real-time data processing, ensuring that the dashboard displays the most current market data and updates without delay.
 
