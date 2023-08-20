@@ -20,7 +20,7 @@ Here is the overall architecture of the platform.
 ![Alt text](media/architecture.png)
 
 ## Project Demo
-**Home page** 
+#### **Home page** 
 
 Explore metrics and plots for sector performance, top stocks, and market trends.
 
@@ -29,7 +29,7 @@ https://github.com/JoyChen037/real_time_financial_report/assets/105028672/63d9ba
 
 ***
 
-**Security Page** 
+#### **Security Page** 
 
 Delve into the details of your chosen security, including both fundamental and technical data.
 
