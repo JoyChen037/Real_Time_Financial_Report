@@ -22,12 +22,14 @@ Here is the overall architecture of the platform.
 ## Project Demo
 *Please visit the link if the video files are not working* 
 
-Page 1 [Overall Stock Market]:
-https://github.com/JoyChen037/real_time_financial_report/assets/105028672/63d9ba11-aa41-4b87-90ac-aa6fa57ead2a
+Screen 1 [Overall Stock Market]:
+Link: https://github.com/JoyChen037/real_time_financial_report/assets/105028672/63d9ba11-aa41-4b87-90ac-aa6fa57ead2a
+
 <img src="https://github.com/JoyChen037/real_time_financial_report/blob/main/media/screen1.gif" width="800" />
 
 Page 2 [Individual Security]:
-https://github.com/JoyChen037/real_time_financial_report/assets/105028672/2f9c3768-15ad-4dbd-97a6-25b1880a9df5
+Link: https://github.com/JoyChen037/real_time_financial_report/assets/105028672/2f9c3768-15ad-4dbd-97a6-25b1880a9df5
+
 <img src="https://github.com/JoyChen037/real_time_financial_report/blob/main/media/screen2.gif" width="800" />
 
 
@@ -39,6 +41,7 @@ https://github.com/JoyChen037/real_time_financial_report/assets/105028672/2f9c37
 **User-Friendly Interface**: We use Streamlit to create a user-friendly web-based interface, making it easy for investors, both new and experienced, to access and interpret the information presented.
 
 **ETL Automation**: Airflow is employed for ETL (Extract, Transform, Load) job scheduling, ensuring that the data is regularly updated and processed, maintaining the dashboard's accuracy and relevance.
+
 
 ## Getting Started
 To run this project locally, follow these steps:
