@@ -26,7 +26,7 @@ Screen 1 [Overall Stock Market]
 
 https://github.com/JoyChen037/real_time_financial_report/assets/105028672/63d9ba11-aa41-4b87-90ac-aa6fa57ead2a
 
-
+***
 
 Page 2 [Individual Security]
 
