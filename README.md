@@ -22,13 +22,13 @@ Here is the overall architecture of the platform.
 ## Project Demo
 *Please visit the links if the video files are not working* 
 
-Screen 1 [Overall Stock Market]
+Screen 1 [**Overall Stock Market**]
 
 https://github.com/JoyChen037/real_time_financial_report/assets/105028672/63d9ba11-aa41-4b87-90ac-aa6fa57ead2a
 
 ***
 
-Page 2 [Individual Security]
+Page 2 [**Individual Security**]
 
 https://github.com/JoyChen037/real_time_financial_report/assets/105028672/2f9c3768-15ad-4dbd-97a6-25b1880a9df5
 
