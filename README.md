@@ -1,5 +1,17 @@
-# Real-Time Financial Report Dashboard
+<div id="top"></div>
+<h3 align="center">Real Time Financial Report</h3>
 
+  <p align="center">
+    A data analytics project that aims to find the shifting trends in music!
+    <br />
+    <br />
+    <a href="https://github.com/JoyChen037/real_time_financial_report/assets/105028672/63d9ba11-aa41-4b87-90ac-aa6fa57ead2a">View Demo (Page 1)</a>
+    <a href="https://github.com/JoyChen037/real_time_financial_report/assets/105028672/2f9c3768-15ad-4dbd-97a6-25b1880a9df5">View Demo (Page 2)</a>
+    <a href="https://github.com/zhishan03/Music-Taste-Analysis/issues">Report Bug</a>
+  </p>
+
+
+# About this Project
 Welcome to the Real-Time Financial Report project! This repository contains a comprehensive real-time financial reporting dashboard designed to analyze and assess the health of the stock market. It offers valuable insights into both technical and fundamental indicators, as well as the latest news, empowering potential investors to make informed decisions.
 
 ## Project Overview
