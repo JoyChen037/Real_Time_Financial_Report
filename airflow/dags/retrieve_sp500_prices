@@ -1,0 +1,8 @@
+#!/bin/bash
+cd
+cd anaconda3
+# activate virtual env
+source ./Scripts/activate stock-market
+cd
+cd OneDrive/Desktop/trading/pipeline
+python -c 'from financial_data_fetcher import get_sp_historical_price; get_sp_historical_price()'
