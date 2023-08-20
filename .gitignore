@@ -1,0 +1,9 @@
+# Ignore compiled Python files
+__pycache__/
+util/__pycache__/
+data/__pycache__/
+airflow/__pycache__/
+
+# Ignore sensitive files
+airflow/airflow.pem
+kafka-stock-market-project.pem
