@@ -20,6 +20,7 @@ Here is the overall architecture of the platform.
 ![Alt text](media/architecture.png)
 
 Page 1 (Overall Stock Market):
+*Please visit the link if the video files are not working* 
 https://github.com/JoyChen037/real_time_financial_report/assets/105028672/63d9ba11-aa41-4b87-90ac-aa6fa57ead2a
 <img src="https://github.com/JoyChen037/real_time_financial_report/blob/main/media/screen1.gif" width="800" />
 
