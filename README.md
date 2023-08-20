@@ -10,7 +10,7 @@
   </p>
 
 
-# About this Project
+## About this Project
 Welcome to the Real-Time Financial Report project! This repository contains a comprehensive real-time financial reporting dashboard designed to analyze and assess the health of the stock market. It offers valuable insights into both technical and fundamental indicators, as well as the latest news, empowering potential investors to make informed decisions.
 
 ## Project Overview
