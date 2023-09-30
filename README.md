@@ -2,7 +2,7 @@
 <h3 align="center">Real Time Financial Report</h3>
 
   <p align="center">
-    A data analytics project that aims to find the shifting trends in music!
+    A data analytics project that aims to monitor the health of the overall stock market!
     <br />
     <br />
     <a href="https://github.com/JoyChen037/real_time_financial_report/assets/105028672/63d9ba11-aa41-4b87-90ac-aa6fa57ead2a">View Demo (P.1)</a>
